@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 regex = "1"
 rand = "0.8"
+lazy_static = "1"
+eval = "0.4"
